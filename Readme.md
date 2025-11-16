@@ -1,7 +1,5 @@
 # 📱 Real-Time Social Media Analytics System
 
-!["Configurable"](Results/Configurable.png)
-
 This system simulates and analyzes real-time social media activity across multiple platforms (Twitter, Instagram, Facebook, LinkedIn, TikTok, YouTube). It demonstrates enterprise-grade data engineering patterns including:
 
 - **Event-driven architecture** using Apache Kafka
@@ -10,6 +8,9 @@ This system simulates and analyzes real-time social media activity across multip
 - **Real-time analytics** with interactive dashboards
 - **Sentiment analysis** and engagement tracking
 - **Viral content detection** and influencer monitoring
+
+
+!["Configurable"](Results/Configurable.png)
 
 ### Use Cases
 
