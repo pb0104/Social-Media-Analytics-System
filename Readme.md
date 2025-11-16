@@ -97,33 +97,32 @@ faker==22.0.0
 ## ✨ Features
 
 ### Data Generation & Streaming
-- ✅ Multi-platform support (Youtube, LinkeIn, Instagram, Facebook, Twitter, TikTok)
-- ✅ Realistic synthetic data generation
-- ✅ Configurable post frequency and patterns
-- ✅ Viral content simulation (surge detection)
-- ✅ Sentiment analysis (positive/neutral/negative)
-- ✅ Geographic tagging for posts
-- ✅ Hashtag and topic tracking
+- Multi-platform support (Youtube, LinkeIn, Instagram, Facebook, Twitter, TikTok)
+- Realistic synthetic data generation
+- Configurable post frequency and patterns
+- Viral content simulation (surge detection)
+- Sentiment analysis (positive/neutral/negative)
+- Geographic tagging for posts
+- Hashtag and topic tracking
 
 ### Analytics & Insights
-- ✅ Real-time engagement metrics (likes, comments, shares)
-- ✅ Sentiment trend analysis
-- ✅ Platform performance comparison
-- ✅ Influencer identification and leaderboard
-- ✅ Viral content tracking
-- ✅ Hashtag trending analysis
-- ✅ Geographic distribution mapping
-- ✅ Content type performance metrics
+- Real-time engagement metrics (likes, comments, shares)
+- Sentiment trend analysis
+- Platform performance comparison
+- Influencer identification and leaderboard
+- Viral content tracking
+- Hashtag trending analysis
+- Geographic distribution mapping
+- Content type performance metrics
 
 ### Dashboard
-- ✅ 8 comprehensive KPI metrics
-- ✅ 10+ interactive visualizations
-- ✅ Auto-refresh capability (configurable interval)
-- ✅ Advanced filtering (platform, sentiment, topic, viral)
-- ✅ Responsive design
-- ✅ Real-time data updates
-- ✅ Export-ready analytics
-
+- 8 comprehensive KPI metrics
+- 10+ interactive visualizations
+- Auto-refresh capability (configurable interval)
+- Advanced filtering (platform, sentiment, topic, viral)
+- Responsive design
+- Real-time data updates
+- Export-ready analytics
 
 
 ## System Architecture
@@ -178,7 +177,7 @@ faker==22.0.0
 | Storage   | PostgreSQL 15                   | Structured analytics warehouse  |
 | Dashboard | Streamlit + Plotly              | Visualization + analytics layer |
 
----
+
 
 # 🚀 Installation Guide
 
